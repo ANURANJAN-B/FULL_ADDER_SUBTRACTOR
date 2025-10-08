@@ -64,19 +64,23 @@ DEVELOPED BY: ANURANJAN.B
 REGISTER NUMBER:25003110
 
 **RTL Schematic**
+
 FULL ADDER:
 
 <img width="1919" height="1079" alt="498311531-3625b807-ce23-416d-bb79-d1a5b147553d" src="https://github.com/user-attachments/assets/cbf5e34d-d1c9-462b-a067-cab213073583" />
 
 FULL SUBTRACTOR:
+
 <img width="1919" height="1079" alt="498318096-9e250c73-87ad-4421-9bf4-8910e0fd5315" src="https://github.com/user-attachments/assets/03fe0d85-cf6d-4731-9634-56300927fa69" />
 
 **Output Timing Waveform**
+
 FULL ADDER:
 
 <img width="1919" height="1079" alt="498311562-421227e6-fdaa-4084-91af-ce70fbecd254" src="https://github.com/user-attachments/assets/eeeddb23-7a50-4d0d-8276-e49db816a613" />
 
 FULL SUBTRACTOR:
+
 <img width="1919" height="1079" alt="498318097-823937a7-e054-46a1-b464-30f2a83dfe6c" src="https://github.com/user-attachments/assets/b8c5a282-8cee-4d48-84e2-bd25f6578501" />
 
 **Result:**
